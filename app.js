@@ -5,6 +5,9 @@ function loadSVG() {
     })
     .then((svg) => {
       document.getElementById("bg_city").innerHTML = svg;
+      document
+        .querySelector("#bg_city svg")
+        .setAttribute("preserveAspectRatio", "xMidYMid slice");
     });
 }
 loadSVG();
