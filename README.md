@@ -29,4 +29,17 @@ This project is a dynamic web page that showcases SVG animations controlled by G
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/dynamic-svg-animation.git
-```
+2. Navigate to the project directory:
+   ```bash
+   cd dynamic-svg-animation
+3. Open the index.html file in your browser.
+   
+- Ensure the city.svg file is in the project directory to see the animations
+
+---
+
+## Author
+
+- **Name**: Yash Bhatt
+- **GitHub**: [@Y-ashbhatt](https://github.com/Y-ashbhatt)
+- **LinkedIn**: [Yash Bhatt](https://www.linkedin.com/in/yashbhatt30/)
